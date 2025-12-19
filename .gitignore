@@ -23,6 +23,8 @@ Desktop.ini
 .env
 poetry.lock
 pyproject.toml
+yolov8s-seg.pt
 
 #folder
-data
+to_treat
+.env
