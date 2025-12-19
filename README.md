@@ -39,14 +39,9 @@ pip install rawpy opencv-python numpy pillow ultralytics
 
 ## 🚀 Utilisation
 
-1. Placez vos fichiers `.RAF` dans le dossier racine du projet.
-2. Modifiez les variables `fichier_entree_raf` et `fichier_sortie_tiff` dans le script `main.py`.
-3. Lancez le script :
-
-```bash
-python main.py
-
-```
+1. Placez vos fichiers `.RAF` dans le dossier data/inputs du projet.
+2. Modifiez les variables `fichier_entree_raf` et `fichier_sortie_tiff` dans le notebook `ttt_image.ipynb`.
+3. Lancez le notebook
 
 *Note : Au premier lancement, le script téléchargera automatiquement le modèle `yolov8s-seg.pt` (environ 22 Mo).*
 
