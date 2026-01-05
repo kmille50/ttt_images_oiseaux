@@ -28,3 +28,4 @@ yolov8s-seg.pt
 #folder
 to_treat
 .env
+data
